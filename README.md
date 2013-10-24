@@ -18,3 +18,4 @@ Resources
  * https://github.com/BinaryMuse/faye-sinatra
  * http://stackoverflow.com/questions/8572150/faye-ruby-client-is-not-working/8572973#8572973
  * Extra (backbone): http://engineering.troupe.co/posts/live-collections/
+ * Extra (eventmachine interval timer): http://javieracero.com/blog/starting-with-eventmachine-iv
