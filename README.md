@@ -5,7 +5,7 @@ A very simple example of using Faye with Rack as a server, and a couple of clien
   
 * rackup -E production
 * ruby listener.rb
-* open client.html
+* open client.html - open dev tools and watch the log
 * ruby sender.rb
   
 Done!
